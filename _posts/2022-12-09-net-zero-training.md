@@ -1,7 +1,7 @@
 ---
 title: "Net zero training"
 layout: post
-categories: Net Zero
+categories: net-zero
 ---
 
 I am currently busy with the [Green Building Council South Africa (GBCSA)](https://gbcsa.org.za/) Net Zero Accredited Professional training.
