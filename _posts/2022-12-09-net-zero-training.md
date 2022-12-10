@@ -1,7 +1,6 @@
 ---
 title: "Net zero training"
 layout: post
-author: "Mercia Greeff"
 categories: Net Zero
 ---
 
