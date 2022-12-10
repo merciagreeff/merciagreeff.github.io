@@ -105,13 +105,13 @@ author:
 footer_links:
   - title: Feed
     url: atom.xml
-    icon: fas fa-rss-square
+    icon: fab fa-rss-square
   - title: GitHub
     url: https://github.com/merciagreeff
     icon: fab fa-github-square
   - title: Linkedin
     url: https://www.linkedin.com/in/mercia-greeff/
-    icon: fab fa-linked-square
+    icon: fab fa-linkedin-square
   - title: Instagram
     url: https://instagram.com/walkingcapetown
     icon: fab fa-instagram
