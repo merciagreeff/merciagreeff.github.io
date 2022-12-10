@@ -1,7 +1,7 @@
 ---
-title: "Finite Element Method"
+title: "Finite element method"
 layout: post
-categories: FEM
+categories: finite-element-method
 ---
 
 For a while now, I have thought of trying to implement a finite element analysis program.  Or find an appropriate implementation to look at.
