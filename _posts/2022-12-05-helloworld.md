@@ -1,7 +1,6 @@
 ---
 title: "Hello, World!"
 layout: post
-author: "Mercia Greeff"
 categories: blog
 ---
 
