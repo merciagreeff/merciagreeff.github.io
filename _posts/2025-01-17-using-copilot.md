@@ -1,5 +1,5 @@
 ---
-title: "Using Copilot"
+title: "Using Copilot in Visual Studio Code"
 layout: post
 categories: code
 ---
