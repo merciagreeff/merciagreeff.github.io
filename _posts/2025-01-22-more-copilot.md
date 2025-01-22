@@ -119,9 +119,7 @@ I then added formulas for a and b for the equation above. It took a bit for the 
 ![2025-01-22-3.png](/assets/2025-01-22-3.png)
 ![2025-01-22-4.png](/assets/2025-01-22-4.png)
 
-Autopilot selected the following values, though theta = 45 came from another example in my notebook.
-
-![2025-01-22-5.png](/assets/2025-01-22-5.png)
+Autopilot selected the example values for sigma_x, sigma_y and tau_xy, but theta = 45 came from another example in my notebook.
 
 Afterwards I quickly checked if the calculated values were actually correct, and it probably needs further checks to ensure everything is working properly otherwise.  
 
